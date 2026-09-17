@@ -1,4 +1,4 @@
-# API CONTRACT VERSION 1
+# API CONTRACT VERSION 2
 
 ## Task Schema
 
